@@ -1,4 +1,4 @@
-I had worked on Bank Loan Report.
+
 #### Page-1
 <img width="1206" height="679" alt="image" src="https://github.com/user-attachments/assets/cce526e3-3ce1-496e-82b2-7f6dce16d97c" />
 
