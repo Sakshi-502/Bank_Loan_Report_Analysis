@@ -1,5 +1,5 @@
 # Bank Loan Report Analysis capstone project 
-provides an end-to-end walkthrough of a financial domain data analysis project, specifically focused on bank loan reporting. The project is designed to demonstrate technical proficiency across the primary tools utilized in the data analytics industry: SQL, Power BI, Python, Excel, and Tableau.Key components of the project include:
+It provides an end-to-end walkthrough of a financial domain data analysis project, specifically focused on bank loan reporting. The project is designed to demonstrate technical proficiency across the primary tools utilized in the data analytics industry: SQL, Power BI, Python, Excel, and Tableau.Key components of the project include:
 
 ### Business Requirement Analysis:
 The project begins by establishing the business context, focusing on key performance indicators (KPIs) such as total loan applications, funded amounts, and the classification of loans into 'good' and 'bad' categories.
