@@ -7,9 +7,12 @@ The project begins by establishing the business context, focusing on key perform
 Utilizing MSSQL Server to perform data extraction and preparation, establishing the necessary database queries to drive the reporting dashboards.
 ### Dashboarding & Visualization:
 Power BI: Developing interactive reports with sophisticated DAX measures, time-intelligence functions, and data modeling.
+
 Tableau: Creating visually aesthetic and functional dashboards using custom design elements, donut charts, and tree maps to effectively communicate loan status and trends.
+
 Python & Excel: Applying Python for data manipulation and analysis, and leveraging Excel to build robust, filterable summary reports.
-Professional Reporting: The workflow emphasizes the transition from raw data to actionable insights, ensuring that visualizations are formatted for professional executive presentation.The project serves as a comprehensive capstone project, showcasing the ability to integrate multiple technologies to solve real-world banking problems, effectively managing the data lifecycle from storage and cleaning to visualization and reporting.
+
+##### Professional Reporting: The workflow emphasizes the transition from raw data to actionable insights, ensuring that visualizations are formatted for professional executive presentation.The project serves as a comprehensive capstone project, showcasing the ability to integrate multiple technologies to solve real-world banking problems, effectively managing the data lifecycle from storage and cleaning to visualization and reporting.
 #### Page-1
 <img width="1206" height="679" alt="image" src="https://github.com/user-attachments/assets/cce526e3-3ce1-496e-82b2-7f6dce16d97c" />
 
